@@ -33,6 +33,7 @@
             this.ToolStripContainer1 = new System.Windows.Forms.ToolStripContainer();
             this.StatusStrip1 = new System.Windows.Forms.StatusStrip();
             this.StatusLabelUrl = new System.Windows.Forms.ToolStripStatusLabel();
+            this.StatusLabel = new OpenTween.OpenTweenCustomControl.ToolStripLabelHistory();
             this.ToolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.HashStripSplitButton = new System.Windows.Forms.ToolStripSplitButton();
             this.ContextMenuPostMode = new System.Windows.Forms.ContextMenuStrip(this.components);
@@ -67,6 +68,7 @@
             this.DeleteTabMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.TabImage = new System.Windows.Forms.ImageList(this.components);
             this.ImageSelectionPanel = new System.Windows.Forms.Panel();
+            this.ImageSelectedPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
             this.ImagePathPanel = new System.Windows.Forms.Panel();
             this.ImagefilePathText = new System.Windows.Forms.TextBox();
             this.FilePickButton = new System.Windows.Forms.Button();
@@ -78,6 +80,7 @@
             this.SplitContainer3 = new System.Windows.Forms.SplitContainer();
             this.SplitContainer2 = new System.Windows.Forms.SplitContainer();
             this.TableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.UserPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
             this.ContextMenuUserPicture = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.FollowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.UnFollowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -126,6 +129,7 @@
             this.StatusText = new System.Windows.Forms.TextBox();
             this.lblLen = new System.Windows.Forms.Label();
             this.PostButton = new System.Windows.Forms.Button();
+            this.PreviewPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
             this.PreviewScrollBar = new System.Windows.Forms.VScrollBar();
             this.MenuStrip1 = new System.Windows.Forms.MenuStrip();
             this.MenuItemFile = new System.Windows.Forms.ToolStripMenuItem();
@@ -309,10 +313,6 @@
             this.ToolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.TimerRefreshIcon = new System.Windows.Forms.Timer(this.components);
             this.PostStateImageList = new System.Windows.Forms.ImageList(this.components);
-            this.StatusLabel = new OpenTween.OpenTweenCustomControl.ToolStripLabelHistory();
-            this.ImageSelectedPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
-            this.UserPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
-            this.PreviewPicture = new OpenTween.OpenTweenCustomControl.PictureBoxEx();
             this.ToolStripContainer1.BottomToolStripPanel.SuspendLayout();
             this.ToolStripContainer1.ContentPanel.SuspendLayout();
             this.ToolStripContainer1.TopToolStripPanel.SuspendLayout();
@@ -329,6 +329,7 @@
             this.TimelinePanel.SuspendLayout();
             this.ContextMenuTabProperty.SuspendLayout();
             this.ImageSelectionPanel.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.ImageSelectedPicture)).BeginInit();
             this.ImagePathPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.SplitContainer3)).BeginInit();
             this.SplitContainer3.Panel1.SuspendLayout();
@@ -339,15 +340,14 @@
             this.SplitContainer2.Panel2.SuspendLayout();
             this.SplitContainer2.SuspendLayout();
             this.TableLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.UserPicture)).BeginInit();
             this.ContextMenuUserPicture.SuspendLayout();
             this.ContextMenuPostBrowser.SuspendLayout();
             this.ContextMenuSource.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.PreviewPicture)).BeginInit();
             this.MenuStrip1.SuspendLayout();
             this.ContextMenuFile.SuspendLayout();
             this.ContextMenuOperate.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.ImageSelectedPicture)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.UserPicture)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.PreviewPicture)).BeginInit();
             this.SuspendLayout();
             // 
             // ToolStripContainer1
@@ -390,6 +390,15 @@
             this.StatusLabelUrl.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.StatusLabelUrl.Name = "StatusLabelUrl";
             this.StatusLabelUrl.Spring = true;
+            // 
+            // StatusLabel
+            // 
+            this.StatusLabel.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Right;
+            this.StatusLabel.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.StatusLabel.DoubleClickEnabled = true;
+            this.StatusLabel.Name = "StatusLabel";
+            resources.ApplyResources(this.StatusLabel, "StatusLabel");
+            this.StatusLabel.DoubleClick += new System.EventHandler(this.StatusLabel_DoubleClick);
             // 
             // ToolStripStatusLabel1
             // 
@@ -540,9 +549,9 @@
             // 
             // ListTab
             // 
-            resources.ApplyResources(this.ListTab, "ListTab");
             this.ListTab.AllowDrop = true;
             this.ListTab.ContextMenuStrip = this.ContextMenuTabProperty;
+            resources.ApplyResources(this.ListTab, "ListTab");
             this.ListTab.ImageList = this.TabImage;
             this.ListTab.Multiline = true;
             this.ListTab.Name = "ListTab";
@@ -674,6 +683,12 @@
             this.ImageSelectionPanel.Name = "ImageSelectionPanel";
             this.ImageSelectionPanel.VisibleChanged += new System.EventHandler(this.ImageSelectionPanel_VisibleChanged);
             // 
+            // ImageSelectedPicture
+            // 
+            resources.ApplyResources(this.ImageSelectedPicture, "ImageSelectedPicture");
+            this.ImageSelectedPicture.Name = "ImageSelectedPicture";
+            this.ImageSelectedPicture.TabStop = false;
+            // 
             // ImagePathPanel
             // 
             this.ImagePathPanel.Controls.Add(this.ImagefilePathText);
@@ -787,6 +802,19 @@
             this.TableLayoutPanel1.Controls.Add(this.DateTimeLabel, 2, 0);
             this.TableLayoutPanel1.Controls.Add(this.SourceLinkLabel, 3, 0);
             this.TableLayoutPanel1.Name = "TableLayoutPanel1";
+            // 
+            // UserPicture
+            // 
+            this.UserPicture.BackColor = System.Drawing.Color.White;
+            this.UserPicture.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.UserPicture.ContextMenuStrip = this.ContextMenuUserPicture;
+            resources.ApplyResources(this.UserPicture, "UserPicture");
+            this.UserPicture.Name = "UserPicture";
+            this.TableLayoutPanel1.SetRowSpan(this.UserPicture, 2);
+            this.UserPicture.TabStop = false;
+            this.UserPicture.DoubleClick += new System.EventHandler(this.UserPicture_DoubleClick);
+            this.UserPicture.MouseEnter += new System.EventHandler(this.UserPicture_MouseEnter);
+            this.UserPicture.MouseLeave += new System.EventHandler(this.UserPicture_MouseLeave);
             // 
             // ContextMenuUserPicture
             // 
@@ -1134,6 +1162,12 @@
             this.PostButton.TabStop = false;
             this.PostButton.UseVisualStyleBackColor = true;
             this.PostButton.Click += new System.EventHandler(this.PostButton_Click);
+            // 
+            // PreviewPicture
+            // 
+            resources.ApplyResources(this.PreviewPicture, "PreviewPicture");
+            this.PreviewPicture.Name = "PreviewPicture";
+            this.PreviewPicture.TabStop = false;
             // 
             // PreviewScrollBar
             // 
@@ -2407,40 +2441,6 @@
             this.PostStateImageList.Images.SetKeyName(13, "S13.ico");
             this.PostStateImageList.Images.SetKeyName(14, "S14.ico");
             // 
-            // StatusLabel
-            // 
-            this.StatusLabel.BorderSides = System.Windows.Forms.ToolStripStatusLabelBorderSides.Right;
-            this.StatusLabel.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.StatusLabel.DoubleClickEnabled = true;
-            this.StatusLabel.Name = "StatusLabel";
-            resources.ApplyResources(this.StatusLabel, "StatusLabel");
-            this.StatusLabel.DoubleClick += new System.EventHandler(this.StatusLabel_DoubleClick);
-            // 
-            // ImageSelectedPicture
-            // 
-            resources.ApplyResources(this.ImageSelectedPicture, "ImageSelectedPicture");
-            this.ImageSelectedPicture.Name = "ImageSelectedPicture";
-            this.ImageSelectedPicture.TabStop = false;
-            // 
-            // UserPicture
-            // 
-            this.UserPicture.BackColor = System.Drawing.Color.White;
-            this.UserPicture.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.UserPicture.ContextMenuStrip = this.ContextMenuUserPicture;
-            resources.ApplyResources(this.UserPicture, "UserPicture");
-            this.UserPicture.Name = "UserPicture";
-            this.TableLayoutPanel1.SetRowSpan(this.UserPicture, 2);
-            this.UserPicture.TabStop = false;
-            this.UserPicture.DoubleClick += new System.EventHandler(this.UserPicture_DoubleClick);
-            this.UserPicture.MouseEnter += new System.EventHandler(this.UserPicture_MouseEnter);
-            this.UserPicture.MouseLeave += new System.EventHandler(this.UserPicture_MouseLeave);
-            // 
-            // PreviewPicture
-            // 
-            resources.ApplyResources(this.PreviewPicture, "PreviewPicture");
-            this.PreviewPicture.Name = "PreviewPicture";
-            this.PreviewPicture.TabStop = false;
-            // 
             // TweenMain
             // 
             this.AllowDrop = true;
@@ -2448,6 +2448,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.ToolStripContainer1);
             this.Name = "TweenMain";
+            this.ShowInTaskbar = false;
             this.Activated += new System.EventHandler(this.TweenMain_Activated);
             this.Deactivate += new System.EventHandler(this.TweenMain_Deactivate);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Tween_FormClosing);
@@ -2479,6 +2480,7 @@
             this.TimelinePanel.ResumeLayout(false);
             this.ContextMenuTabProperty.ResumeLayout(false);
             this.ImageSelectionPanel.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.ImageSelectedPicture)).EndInit();
             this.ImagePathPanel.ResumeLayout(false);
             this.ImagePathPanel.PerformLayout();
             this.SplitContainer3.Panel1.ResumeLayout(false);
@@ -2492,16 +2494,15 @@
             this.SplitContainer2.ResumeLayout(false);
             this.TableLayoutPanel1.ResumeLayout(false);
             this.TableLayoutPanel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.UserPicture)).EndInit();
             this.ContextMenuUserPicture.ResumeLayout(false);
             this.ContextMenuPostBrowser.ResumeLayout(false);
             this.ContextMenuSource.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.PreviewPicture)).EndInit();
             this.MenuStrip1.ResumeLayout(false);
             this.MenuStrip1.PerformLayout();
             this.ContextMenuFile.ResumeLayout(false);
             this.ContextMenuOperate.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.ImageSelectedPicture)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.UserPicture)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.PreviewPicture)).EndInit();
             this.ResumeLayout(false);
 
         }

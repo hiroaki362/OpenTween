@@ -130,7 +130,7 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="StatusLabelUrl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>459, 22</value>
+    <value>462, 22</value>
   </data>
   <data name="StatusLabelUrl.Text" xml:space="preserve">
     <value>ToolStripStatusLabel1</value>
@@ -139,7 +139,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="StatusLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 22</value>
+    <value>52, 22</value>
   </data>
   <data name="StatusLabel.Text" xml:space="preserve">
     <value>Starting...</value>
@@ -300,9 +300,6 @@
   <data name="SplitContainer1.Orientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
     <value>Horizontal</value>
   </data>
-  <data name="ListTab.Alignment" type="System.Windows.Forms.TabAlignment, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
   <metadata name="ContextMenuTabProperty.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>130, 99</value>
   </metadata>
@@ -340,7 +337,7 @@
     <value>新着通知表示(&amp;Q)</value>
   </data>
   <data name="SoundFileComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 20</value>
+    <value>121, 19</value>
   </data>
   <data name="SoundFileComboBox.ToolTipText" xml:space="preserve">
     <value>再生するwavファイルを指定してください</value>
@@ -400,7 +397,7 @@
     <value>0, 0, 0, 0</value>
   </data>
   <data name="ListTab.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 235</value>
+    <value>568, 237</value>
   </data>
   <data name="ListTab.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -424,7 +421,7 @@
     <value>0, 0</value>
   </data>
   <data name="TimelinePanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 235</value>
+    <value>568, 237</value>
   </data>
   <data name="TimelinePanel.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -784,7 +781,7 @@
     <value>0, 0</value>
   </data>
   <data name="ImageSelectedPicture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 207</value>
+    <value>568, 209</value>
   </data>
   <data name="ImageSelectedPicture.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -988,7 +985,7 @@
     <value>Bottom</value>
   </data>
   <data name="ImagePathPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 207</value>
+    <value>0, 209</value>
   </data>
   <data name="ImagePathPanel.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
@@ -1018,7 +1015,7 @@
     <value>0, 0</value>
   </data>
   <data name="ImageSelectionPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 235</value>
+    <value>568, 237</value>
   </data>
   <data name="ImageSelectionPanel.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1045,7 +1042,7 @@
     <value>0, 0</value>
   </data>
   <data name="ProfilePanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 235</value>
+    <value>568, 237</value>
   </data>
   <data name="ProfilePanel.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1174,7 +1171,7 @@
     <value>3, 3</value>
   </data>
   <data name="UserPicture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 50</value>
+    <value>50, 48</value>
   </data>
   <data name="UserPicture.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -1240,25 +1237,25 @@
     <value>17, 58</value>
   </metadata>
   <data name="SearchGoogleContextMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
+    <value>153, 22</value>
   </data>
   <data name="SearchGoogleContextMenuItem.Text" xml:space="preserve">
     <value>Google(&amp;G)</value>
   </data>
   <data name="SearchWikipediaContextMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
+    <value>153, 22</value>
   </data>
   <data name="SearchWikipediaContextMenuItem.Text" xml:space="preserve">
     <value>Wikipedia(&amp;W)</value>
   </data>
   <data name="SearchPublicSearchContextMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
+    <value>153, 22</value>
   </data>
   <data name="SearchPublicSearchContextMenuItem.Text" xml:space="preserve">
     <value>Twitter Search(&amp;S)</value>
   </data>
   <data name="CurrentTabToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 22</value>
+    <value>153, 22</value>
   </data>
   <data name="CurrentTabToolStripMenuItem.Text" xml:space="preserve">
     <value>現在のタブ(&amp;L)</value>
@@ -1399,7 +1396,7 @@
     <value>59, 20</value>
   </data>
   <data name="PostBrowser.Size" type="System.Drawing.Size, System.Drawing">
-    <value>506, 33</value>
+    <value>506, 31</value>
   </data>
   <data name="PostBrowser.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1528,7 +1525,7 @@
     <value>2</value>
   </data>
   <data name="TableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 56</value>
+    <value>568, 54</value>
   </data>
   <data name="TableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1666,10 +1663,10 @@
     <value>19</value>
   </data>
   <data name="SplitContainer2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 83</value>
+    <value>568, 81</value>
   </data>
   <data name="SplitContainer2.SplitterDistance" type="System.Int32, mscorlib">
-    <value>56</value>
+    <value>54</value>
   </data>
   <data name="SplitContainer2.SplitterWidth" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1711,7 +1708,7 @@
     <value>0, 0</value>
   </data>
   <data name="PreviewPicture.Size" type="System.Drawing.Size, System.Drawing">
-    <value>192, 85</value>
+    <value>192, 83</value>
   </data>
   <data name="PreviewPicture.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -1741,7 +1738,7 @@
     <value>192, 0</value>
   </data>
   <data name="PreviewScrollBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>17, 85</value>
+    <value>17, 83</value>
   </data>
   <data name="PreviewScrollBar.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1771,7 +1768,7 @@
     <value>1</value>
   </data>
   <data name="SplitContainer3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>568, 83</value>
+    <value>568, 81</value>
   </data>
   <data name="SplitContainer3.SplitterDistance" type="System.Int32, mscorlib">
     <value>355</value>
@@ -1810,7 +1807,7 @@
     <value>572, 328</value>
   </data>
   <data name="SplitContainer1.SplitterDistance" type="System.Int32, mscorlib">
-    <value>239</value>
+    <value>241</value>
   </data>
   <data name="SplitContainer1.SplitterWidth" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1939,106 +1936,106 @@
     <value>None</value>
   </data>
   <data name="SettingFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="SettingFileMenuItem.Text" xml:space="preserve">
     <value>設定(&amp;O)</value>
   </data>
   <data name="ToolStripSeparator21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 6</value>
+    <value>156, 6</value>
   </data>
   <data name="SaveFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="SaveFileMenuItem.Text" xml:space="preserve">
     <value>ファイル保存(&amp;S)</value>
   </data>
   <data name="ToolStripSeparator23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 6</value>
+    <value>156, 6</value>
   </data>
   <data name="NotifyFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="NotifyFileMenuItem.Text" xml:space="preserve">
     <value>新着通知(&amp;Q)</value>
   </data>
   <data name="PlaySoundFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="PlaySoundFileMenuItem.Text" xml:space="preserve">
     <value>サウンド再生(&amp;P)</value>
   </data>
   <data name="LockListFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="LockListFileMenuItem.Text" xml:space="preserve">
     <value>新着時リスト固定(&amp;L)</value>
   </data>
   <data name="ToolStripSeparator43.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 6</value>
+    <value>156, 6</value>
   </data>
   <data name="StopRefreshAllMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="StopRefreshAllMenuItem.Text" xml:space="preserve">
     <value>All Refresh Stop</value>
   </data>
   <data name="ToolStripSeparator24.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 6</value>
+    <value>156, 6</value>
   </data>
   <data name="TweenRestartMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="TweenRestartMenuItem.Text" xml:space="preserve">
     <value>再起動(&amp;R)</value>
   </data>
   <data name="EndFileMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>159, 22</value>
   </data>
   <data name="EndFileMenuItem.Text" xml:space="preserve">
     <value>終了(&amp;X)</value>
   </data>
   <data name="MenuItemFile.Size" type="System.Drawing.Size, System.Drawing">
-    <value>66, 20</value>
+    <value>59, 20</value>
   </data>
   <data name="MenuItemFile.Text" xml:space="preserve">
     <value>ファイル(&amp;F)</value>
   </data>
   <data name="UndoRemoveTabMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="UndoRemoveTabMenuItem.Text" xml:space="preserve">
     <value>タブ削除の取消</value>
   </data>
   <data name="ToolStripSeparator12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>222, 6</value>
+    <value>209, 6</value>
   </data>
   <data name="CopySTOTMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="CopySTOTMenuItem.Text" xml:space="preserve">
     <value>コピー（STOT形式テキスト）(&amp;C)</value>
   </data>
   <data name="CopyURLMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="CopyURLMenuItem.Text" xml:space="preserve">
     <value>コピー（ステータスURL）(&amp;S)</value>
   </data>
   <data name="CopyUserIdStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="CopyUserIdStripMenuItem.Text" xml:space="preserve">
     <value>コピー（ユーザーID）(&amp;A)</value>
   </data>
   <data name="ToolStripSeparator6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>222, 6</value>
+    <value>209, 6</value>
   </data>
   <data name="MenuItemSubSearch.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+F</value>
   </data>
   <data name="MenuItemSubSearch.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="MenuItemSubSearch.Text" xml:space="preserve">
     <value>検索(&amp;F)...</value>
@@ -2047,7 +2044,7 @@
     <value>F3</value>
   </data>
   <data name="MenuItemSearchNext.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="MenuItemSearchNext.Text" xml:space="preserve">
     <value>次を検索(&amp;X)</value>
@@ -2056,25 +2053,25 @@
     <value>Shift+F3</value>
   </data>
   <data name="MenuItemSearchPrev.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="MenuItemSearchPrev.Text" xml:space="preserve">
     <value>前を検索(&amp;P)</value>
   </data>
   <data name="ToolStripSeparator22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>222, 6</value>
+    <value>209, 6</value>
   </data>
   <data name="PublicSearchQueryMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+Shift+F</value>
   </data>
   <data name="PublicSearchQueryMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 22</value>
+    <value>212, 22</value>
   </data>
   <data name="PublicSearchQueryMenuItem.Text" xml:space="preserve">
     <value>抽出条件入力(&amp;Q)</value>
   </data>
   <data name="MenuItemEdit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+    <value>51, 20</value>
   </data>
   <data name="MenuItemEdit.Text" xml:space="preserve">
     <value>編集(&amp;E)</value>
@@ -2083,7 +2080,7 @@
     <value>Ctrl+R</value>
   </data>
   <data name="ReplyOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ReplyOpMenuItem.Text" xml:space="preserve">
     <value>＠返信(&amp;R)</value>
@@ -2092,7 +2089,7 @@
     <value>Ctrl+Shift+R</value>
   </data>
   <data name="ReplyAllOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ReplyAllOpMenuItem.Text" xml:space="preserve">
     <value>＠返信ALL(&amp;E)</value>
@@ -2101,7 +2098,7 @@
     <value>Ctrl+M</value>
   </data>
   <data name="DmOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="DmOpMenuItem.Text" xml:space="preserve">
     <value>DM送信(&amp;M)</value>
@@ -2110,7 +2107,7 @@
     <value>Alt+R</value>
   </data>
   <data name="RtOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="RtOpMenuItem.Text" xml:space="preserve">
     <value>Re&amp;tweet</value>
@@ -2119,7 +2116,7 @@
     <value>Alt+Shift+R</value>
   </data>
   <data name="RtUnOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="RtUnOpMenuItem.Text" xml:space="preserve">
     <value>Retweet(U&amp;nofficial)</value>
@@ -2128,19 +2125,19 @@
     <value>Ctrl+Q</value>
   </data>
   <data name="QtOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="QtOpMenuItem.Text" xml:space="preserve">
     <value>&amp;Quote</value>
   </data>
   <data name="ToolStripSeparator25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 6</value>
+    <value>253, 6</value>
   </data>
   <data name="FavOpMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+S</value>
   </data>
   <data name="FavOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="FavOpMenuItem.Text" xml:space="preserve">
     <value>Fav追加(&amp;F)</value>
@@ -2149,7 +2146,7 @@
     <value>Ctrl+Alt+S</value>
   </data>
   <data name="FavoriteRetweetMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="FavoriteRetweetMenuItem.Text" xml:space="preserve">
     <value>Fav追加+Retweet</value>
@@ -2158,7 +2155,7 @@
     <value>Ctrl+Alt+R</value>
   </data>
   <data name="FavoriteRetweetUnofficialMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="FavoriteRetweetUnofficialMenuItem.Text" xml:space="preserve">
     <value>Fav追加+Retweet(Unofficial)</value>
@@ -2167,13 +2164,13 @@
     <value>Ctrl+Shift+S</value>
   </data>
   <data name="UnFavOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="UnFavOpMenuItem.Text" xml:space="preserve">
     <value>Fav削除(&amp;V)</value>
   </data>
   <data name="ToolStripSeparator38.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 6</value>
+    <value>253, 6</value>
   </data>
   <data name="ShowProfMenuItem.ShortcutKeyDisplayString" xml:space="preserve">
     <value />
@@ -2182,13 +2179,13 @@
     <value>Alt+P</value>
   </data>
   <data name="ShowProfMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ShowProfMenuItem.Text" xml:space="preserve">
     <value>プロフィール表示</value>
   </data>
   <data name="ShowRelatedStatusesMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ShowRelatedStatusesMenuItem2.Text" xml:space="preserve">
     <value>関連発言表示(&amp;G)</value>
@@ -2197,7 +2194,7 @@
     <value>Ctrl+U</value>
   </data>
   <data name="ShowUserTimelineToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ShowUserTimelineToolStripMenuItem.Text" xml:space="preserve">
     <value>ユーザーのタイムラインを表示</value>
@@ -2206,7 +2203,7 @@
     <value>Ctrl+H</value>
   </data>
   <data name="OpenHomeOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenHomeOpMenuItem.Text" xml:space="preserve">
     <value>ホームを開く(&amp;H)</value>
@@ -2215,7 +2212,7 @@
     <value>Ctrl+G</value>
   </data>
   <data name="OpenFavOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenFavOpMenuItem.Text" xml:space="preserve">
     <value>Favを開く(&amp;G)</value>
@@ -2224,7 +2221,7 @@
     <value>Ctrl+O</value>
   </data>
   <data name="OpenStatusOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenStatusOpMenuItem.Text" xml:space="preserve">
     <value>ステータスを開く(&amp;O)</value>
@@ -2233,7 +2230,7 @@
     <value>Ctrl+I</value>
   </data>
   <data name="OpenRepSourceOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenRepSourceOpMenuItem.Text" xml:space="preserve">
     <value>返信元ステータスを開く(&amp;I)</value>
@@ -2242,7 +2239,7 @@
     <value>Ctrl+Shift+O</value>
   </data>
   <data name="OpenFavotterOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenFavotterOpMenuItem.Text" xml:space="preserve">
     <value>ふぁぼられを開く(&amp;P)</value>
@@ -2251,7 +2248,7 @@
     <value>Ctrl+E</value>
   </data>
   <data name="OpenUrlOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenUrlOpMenuItem.Text" xml:space="preserve">
     <value>発言内URLを開く(&amp;U)</value>
@@ -2260,7 +2257,7 @@
     <value>Ctrl+Shift+H</value>
   </data>
   <data name="OpenRterHomeMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenRterHomeMenuItem.Text" xml:space="preserve">
     <value>RTした人のホームを開く(&amp;R)</value>
@@ -2269,49 +2266,49 @@
     <value>Ctrl+Alt+H</value>
   </data>
   <data name="OpenUserSpecifiedUrlMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 22</value>
+    <value>248, 22</value>
   </data>
   <data name="OpenUserSpecifiedUrlMenuItem.Text" xml:space="preserve">
     <value>ユーザー定義のURL</value>
   </data>
   <data name="OpenOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="OpenOpMenuItem.Text" xml:space="preserve">
     <value>開く(&amp;O)</value>
   </data>
   <data name="CreateTabRuleOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>199, 22</value>
+    <value>186, 22</value>
   </data>
   <data name="CreateTabRuleOpMenuItem.Text" xml:space="preserve">
     <value>タブ振り分けルール作成(&amp;N)</value>
   </data>
   <data name="CreateIdRuleOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>199, 22</value>
+    <value>186, 22</value>
   </data>
   <data name="CreateIdRuleOpMenuItem.Text" xml:space="preserve">
     <value>ID振り分けルール作成(&amp;I)</value>
   </data>
   <data name="CreateRuleOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="CreateRuleOpMenuItem.Text" xml:space="preserve">
     <value>振り分けルール作成(&amp;C)</value>
   </data>
   <data name="ListManageMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ListManageMenuItem.Text" xml:space="preserve">
     <value>リスト管理(&amp;L)</value>
   </data>
   <data name="ToolStripSeparator26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 6</value>
+    <value>253, 6</value>
   </data>
   <data name="ReadOpMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+B</value>
   </data>
   <data name="ReadOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 22</value>
+    <value>194, 22</value>
   </data>
   <data name="ReadOpMenuItem.Text" xml:space="preserve">
     <value>既読にする(&amp;B)</value>
@@ -2320,31 +2317,31 @@
     <value>Ctrl+Shift+B</value>
   </data>
   <data name="UnreadOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 22</value>
+    <value>194, 22</value>
   </data>
   <data name="UnreadOpMenuItem.Text" xml:space="preserve">
     <value>未読にする(&amp;U)</value>
   </data>
   <data name="ChangeReadOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="ChangeReadOpMenuItem.Text" xml:space="preserve">
     <value>未読状態変更(&amp;H)</value>
   </data>
   <data name="JumpReadOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="JumpReadOpMenuItem.Text" xml:space="preserve">
     <value>未読へジャンプ(&amp;J)</value>
   </data>
   <data name="ToolStripSeparator27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 6</value>
+    <value>253, 6</value>
   </data>
   <data name="SelAllOpMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+A</value>
   </data>
   <data name="SelAllOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="SelAllOpMenuItem.Text" xml:space="preserve">
     <value>全て選択(&amp;A)</value>
@@ -2353,7 +2350,7 @@
     <value>Ctrl+D</value>
   </data>
   <data name="DelOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="DelOpMenuItem.Text" xml:space="preserve">
     <value>削除(&amp;D)</value>
@@ -2362,7 +2359,7 @@
     <value>F5</value>
   </data>
   <data name="RefreshOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="RefreshOpMenuItem.Text" xml:space="preserve">
     <value>更新(&amp;U)</value>
@@ -2371,85 +2368,85 @@
     <value>Shift+F5</value>
   </data>
   <data name="RefreshPrevOpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>277, 22</value>
+    <value>256, 22</value>
   </data>
   <data name="RefreshPrevOpMenuItem.Text" xml:space="preserve">
     <value>前データを取得(&amp;I)</value>
   </data>
   <data name="MenuItemOperate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>57, 20</value>
+    <value>53, 20</value>
   </data>
   <data name="MenuItemOperate.Text" xml:space="preserve">
     <value>操作(&amp;O)</value>
   </data>
   <data name="CreateTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="CreateTbMenuItem.Text" xml:space="preserve">
     <value>タブ作成(&amp;N)...</value>
   </data>
   <data name="RenameTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="RenameTbMenuItem.Text" xml:space="preserve">
     <value>タブ名変更(&amp;R)</value>
   </data>
   <data name="ToolStripSeparator28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="LockTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="LockTbMenuItem.Text" xml:space="preserve">
     <value>タブを固定する(&amp;L)</value>
   </data>
   <data name="UnreadMngTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="UnreadMngTbMenuItem.Text" xml:space="preserve">
     <value>未読管理(&amp;U)</value>
   </data>
   <data name="NotifyTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="NotifyTbMenuItem.Text" xml:space="preserve">
     <value>新着通知表示(&amp;Q)</value>
   </data>
   <data name="SoundFileTbComboBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 20</value>
+    <value>121, 19</value>
   </data>
   <data name="ToolStripSeparator29.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="EditRuleTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="EditRuleTbMenuItem.Text" xml:space="preserve">
     <value>振り分けルール編集(&amp;F)...</value>
   </data>
   <data name="ToolStripSeparator30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="ClearTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="ClearTbMenuItem.Text" xml:space="preserve">
     <value>このタブの発言をクリア(&amp;C)</value>
   </data>
   <data name="ToolStripSeparator31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 6</value>
+    <value>178, 6</value>
   </data>
   <data name="DeleteTbMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+W</value>
   </data>
   <data name="DeleteTbMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+    <value>181, 22</value>
   </data>
   <data name="DeleteTbMenuItem.Text" xml:space="preserve">
     <value>タブ削除(&amp;D)</value>
   </data>
   <data name="MenuItemTab.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>45, 20</value>
   </data>
   <data name="MenuItemTab.Text" xml:space="preserve">
     <value>タブ(&amp;T)</value>
@@ -2458,7 +2455,7 @@
     <value>Ctrl+L</value>
   </data>
   <data name="UrlConvertAutoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="UrlConvertAutoToolStripMenuItem.Text" xml:space="preserve">
     <value>短縮サービス自動選択</value>
@@ -2467,130 +2464,130 @@
     <value>False</value>
   </data>
   <data name="UrlUndoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="UrlUndoToolStripMenuItem.Text" xml:space="preserve">
     <value>元に戻す</value>
   </data>
   <data name="TinyURLToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="TinyURLToolStripMenuItem.Text" xml:space="preserve">
     <value>TinyURL</value>
   </data>
   <data name="IsgdToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="IsgdToolStripMenuItem.Text" xml:space="preserve">
     <value>is.gd</value>
   </data>
   <data name="TwurlnlToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="TwurlnlToolStripMenuItem.Text" xml:space="preserve">
     <value>twurl.nl</value>
   </data>
   <data name="BitlyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="BitlyToolStripMenuItem.Text" xml:space="preserve">
     <value>bit.ly</value>
   </data>
   <data name="JmpStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="JmpStripMenuItem.Text" xml:space="preserve">
     <value>j.mp</value>
   </data>
   <data name="UxnuMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+    <value>204, 22</value>
   </data>
   <data name="UxnuMenuItem.Text" xml:space="preserve">
     <value>ux.nu</value>
   </data>
   <data name="TinyUrlConvertToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="TinyUrlConvertToolStripMenuItem.Text" xml:space="preserve">
     <value>入力欄のURLを短縮変換</value>
   </data>
   <data name="UpdateFollowersMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="UpdateFollowersMenuItem1.Text" xml:space="preserve">
     <value>片思いユーザーリスト取得</value>
   </data>
   <data name="ToolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>234, 6</value>
+    <value>220, 6</value>
   </data>
   <data name="FollowCommandMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="FollowCommandMenuItem.Text" xml:space="preserve">
     <value>フォローする(&amp;F)</value>
   </data>
   <data name="RemoveCommandMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="RemoveCommandMenuItem.Text" xml:space="preserve">
     <value>フォロー解除(&amp;N)</value>
   </data>
   <data name="FriendshipMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="FriendshipMenuItem.Text" xml:space="preserve">
     <value>相互フォロー状態表示(&amp;H)</value>
   </data>
   <data name="ToolStripSeparator3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>234, 6</value>
+    <value>220, 6</value>
   </data>
   <data name="OwnStatusMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="OwnStatusMenuItem.Text" xml:space="preserve">
     <value>自プロフィール表示</value>
   </data>
   <data name="OpenOwnHomeMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="OpenOwnHomeMenuItem.Text" xml:space="preserve">
     <value>自身のホームを開く</value>
   </data>
   <data name="OpenOwnFavedMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="OpenOwnFavedMenuItem.Text" xml:space="preserve">
     <value>自身のふぁぼられを開く</value>
   </data>
   <data name="ToolStripSeparator41.Size" type="System.Drawing.Size, System.Drawing">
-    <value>234, 6</value>
+    <value>220, 6</value>
   </data>
   <data name="UserStatusToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="UserStatusToolStripMenuItem.Text" xml:space="preserve">
     <value>プロフィール表示</value>
   </data>
   <data name="UserTimelineToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="UserTimelineToolStripMenuItem.Text" xml:space="preserve">
     <value>ユーザーのタイムラインを開く</value>
   </data>
   <data name="UserFavorareToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="UserFavorareToolStripMenuItem.Text" xml:space="preserve">
     <value>ユーザーのふぁぼられを開く</value>
   </data>
   <data name="ToolStripSeparator34.Size" type="System.Drawing.Size, System.Drawing">
-    <value>234, 6</value>
+    <value>220, 6</value>
   </data>
   <data name="HashToggleToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+Shift+T</value>
   </data>
   <data name="HashToggleToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="HashToggleToolStripMenuItem.Text" xml:space="preserve">
     <value>ハッシュタグ自動付加</value>
@@ -2599,58 +2596,58 @@
     <value>Ctrl+T</value>
   </data>
   <data name="HashManageToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="HashManageToolStripMenuItem.Text" xml:space="preserve">
     <value>ハッシュタグ設定</value>
   </data>
   <data name="RtCountMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="RtCountMenuItem.Text" xml:space="preserve">
     <value>この発言のRetweet回数を確認</value>
   </data>
   <data name="ListManageToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>237, 22</value>
+    <value>223, 22</value>
   </data>
   <data name="ListManageToolStripMenuItem.Text" xml:space="preserve">
     <value>リスト編集</value>
   </data>
   <data name="MenuItemCommand.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 20</value>
+    <value>80, 20</value>
   </data>
   <data name="MenuItemCommand.Text" xml:space="preserve">
     <value>その他機能(&amp;C)</value>
   </data>
   <data name="StopToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 22</value>
+    <value>189, 22</value>
   </data>
   <data name="StopToolStripMenuItem.Text" xml:space="preserve">
     <value>Stop</value>
   </data>
   <data name="ToolStripSeparator40.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 6</value>
+    <value>186, 6</value>
   </data>
   <data name="TrackToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 22</value>
+    <value>189, 22</value>
   </data>
   <data name="TrackToolStripMenuItem.Text" xml:space="preserve">
     <value>Track</value>
   </data>
   <data name="AllrepliesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 22</value>
+    <value>189, 22</value>
   </data>
   <data name="AllrepliesToolStripMenuItem.Text" xml:space="preserve">
     <value>All @replies</value>
   </data>
   <data name="ToolStripSeparator42.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 6</value>
+    <value>186, 6</value>
   </data>
   <data name="EventViewerMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+Shift+E</value>
   </data>
   <data name="EventViewerMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>201, 22</value>
+    <value>189, 22</value>
   </data>
   <data name="EventViewerMenuItem.Text" xml:space="preserve">
     <value>View Events</value>
@@ -2659,7 +2656,7 @@
     <value>False</value>
   </data>
   <data name="MenuItemUserStream.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 20</value>
+    <value>73, 20</value>
   </data>
   <data name="MenuItemUserStream.Text" xml:space="preserve">
     <value>UserStream</value>
@@ -2668,64 +2665,64 @@
     <value>F1</value>
   </data>
   <data name="MatomeMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="MatomeMenuItem.Text" xml:space="preserve">
     <value>%AppName% ウェブサイト(&amp;H)</value>
   </data>
   <data name="ShortcutKeyListMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="ShortcutKeyListMenuItem.Text" xml:space="preserve">
     <value>ショートカットキー一覧</value>
   </data>
   <data name="ToolStripSeparator16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 6</value>
+    <value>203, 6</value>
   </data>
   <data name="VerUpMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="VerUpMenuItem.Text" xml:space="preserve">
     <value>最新版の取得(&amp;G)</value>
   </data>
   <data name="ToolStripSeparator14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 6</value>
+    <value>203, 6</value>
   </data>
   <data name="ApiInfoMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="ApiInfoMenuItem.Text" xml:space="preserve">
     <value>API情報</value>
   </data>
   <data name="ToolStripSeparator7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 6</value>
+    <value>203, 6</value>
   </data>
   <data name="AboutMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="AboutMenuItem.Text" xml:space="preserve">
     <value>%AppName% について(&amp;A)...</value>
   </data>
   <data name="DumpPostClassToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>196, 22</value>
+    <value>184, 22</value>
   </data>
   <data name="DumpPostClassToolStripMenuItem.Text" xml:space="preserve">
     <value>PostClassのダンプ</value>
   </data>
   <data name="TraceOutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>196, 22</value>
+    <value>184, 22</value>
   </data>
   <data name="TraceOutToolStripMenuItem.Text" xml:space="preserve">
     <value>TraceOut出力</value>
   </data>
   <data name="CacheInfoMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>196, 22</value>
+    <value>184, 22</value>
   </data>
   <data name="CacheInfoMenuItem.Text" xml:space="preserve">
     <value>アイコンキャッシュ使用状況</value>
   </data>
   <data name="DebugModeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
+    <value>206, 22</value>
   </data>
   <data name="DebugModeToolStripMenuItem.Text" xml:space="preserve">
     <value>デバッグモード</value>
@@ -2734,7 +2731,7 @@
     <value>False</value>
   </data>
   <data name="MenuItemHelp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 20</value>
+    <value>56, 20</value>
   </data>
   <data name="MenuItemHelp.Text" xml:space="preserve">
     <value>ヘルプ(&amp;H)</value>
@@ -2788,13 +2785,13 @@
     <value>7</value>
   </data>
   <data name="ReadedStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>138, 22</value>
+    <value>131, 22</value>
   </data>
   <data name="ReadedStripMenuItem.Text" xml:space="preserve">
     <value>既読にする(&amp;B)</value>
   </data>
   <data name="UnreadStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>138, 22</value>
+    <value>131, 22</value>
   </data>
   <data name="UnreadStripMenuItem.Text" xml:space="preserve">
     <value>未読にする</value>
@@ -2830,37 +2827,37 @@
     <value>リスト管理(&amp;L)</value>
   </data>
   <data name="OpenURLMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="OpenURLMenuItem.Text" xml:space="preserve">
     <value>発言内URLを開く(&amp;U)</value>
   </data>
   <data name="IDRuleMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>205, 22</value>
+    <value>192, 22</value>
   </data>
   <data name="IDRuleMenuItem.Text" xml:space="preserve">
     <value>ID振り分けルール作成...</value>
   </data>
   <data name="MoveToRTHomeMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="MoveToRTHomeMenuItem.Text" xml:space="preserve">
     <value>RTした人のホームを開く(&amp;R)</value>
   </data>
   <data name="FavorareMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="FavorareMenuItem.Text" xml:space="preserve">
     <value>ふぁぼられを開く(&amp;P)</value>
   </data>
   <data name="TabMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>205, 22</value>
+    <value>192, 22</value>
   </data>
   <data name="TabMenuItem.Text" xml:space="preserve">
     <value>タブ振り分けルール作成(&amp;N)...</value>
   </data>
   <data name="OpenUserSpecifiedUrlMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="OpenUserSpecifiedUrlMenuItem2.Text" xml:space="preserve">
     <value>ユーザー定義のURL</value>
@@ -2962,13 +2959,13 @@
     <value>481, 99</value>
   </metadata>
   <data name="RepliedStatusOpenMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="RepliedStatusOpenMenuItem.Text" xml:space="preserve">
     <value>返信元ステータスを開く(&amp;I)</value>
   </data>
   <data name="StatusOpenMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="StatusOpenMenuItem.Text" xml:space="preserve">
     <value>ステータスを開く(&amp;O)</value>
@@ -3061,13 +3058,13 @@
     <value>ユーザーのタイムラインを表示</value>
   </data>
   <data name="MoveToHomeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="MoveToHomeToolStripMenuItem.Text" xml:space="preserve">
     <value>ホームを開く(&amp;H)</value>
   </data>
   <data name="MoveToFavToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 22</value>
+    <value>185, 22</value>
   </data>
   <data name="MoveToFavToolStripMenuItem.Text" xml:space="preserve">
     <value>Favを開く(&amp;G)</value>
@@ -3103,118 +3100,118 @@
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAACW
         HQAAAk1TRnQBSQFMAgEBDwEAAVQBAQFUAQEBEAEAARABAAT/ASEBAAj/AUIBTQE2BwABNgMAASgDAAFA
         AwABQAMAAQEBAAEgBgABQP8AIwADwAH/A8AB/xAAA8AB/yQAA8AB/wPAAf8QAAPAAf8kAAPAAf8DwAH/
-        EAADwAH/YAABRwGZAv8BRwGZAv8QAAE8AZkBPAH/A8AB/yAAAUcBmQL/AUcBmQL/EAABPAGZATwB/wPA
-        Af8gAAFHAZkC/wFHAZkC/xAAATwBmQE8Af8DwAH/WAADwAH/AUcBmQL/AUcBmQL/A8AB/wPAAf8DwAH/
-        CAABPAGZATwB/wPAAf8DwAH/FAADwAH/AUcBmQL/AUcBmQL/A8AB/wPAAf8DwAH/CAABPAGZATwB/wPA
-        Af8DwAH/FAADwAH/AUcBmQL/AUcBmQL/A8AB/wPAAf8DwAH/CAABPAGZATwB/wPAAf8DwAH/UAABRwGZ
-        Av8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/BAABPAGZATwB/wE8AZkBPAH/ATwBmQE8
-        Af8DwAH/A8AB/wwAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/A8AB/wQAATwBmQE8
-        Af8BPAGZATwB/wE8AZkBPAH/A8AB/wPAAf8MAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFH
-        AZkC/wPAAf8EAAE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wPAAf8DwAH/TAABRwGZAv8BRwGZAv8BRwGZ
-        Av8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZ
-        ATwB/wPAAf8MAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf8BPAGZATwB/wE8
-        AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/A8AB/wwAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/
-        AUcBmQL/AUcBmQL/A8AB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8DwAH/
-        TAABRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/ATwBmQE8Af8BPAGZATwB/wQA
-        ATwBmQE8Af8BPAGZATwB/wPAAf8MAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPA
-        Af8BPAGZATwB/wE8AZkBPAH/BAABPAGZATwB/wE8AZkBPAH/A8AB/wwAAUcBmQL/AUcBmQL/AUcBmQL/
-        AUcBmQL/AUcBmQL/AUcBmQL/A8AB/wE8AZkBPAH/ATwBmQE8Af8EAAE8AZkBPAH/ATwBmQE8Af8DwAH/
-        TAABRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8EAAE8AZkBPAH/ATwBmQE8Af8BPAGZ
-        ATwB/wE8AZkBPAH/ATwBmQE8Af8QAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wQA
-        ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/xAAAUcBmQL/AUcBmQL/AUcBmQL/
-        AUcBmQL/AUcBmQL/AUcBmQL/BAABPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/
-        cAABPAGZATwB/wE8AZkBPAH/ATwBmQE8Af80AAE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/zQAATwBmQE8
-        Af8BPAGZATwB/wE8AZkBPAH/WAADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/
-        A8AB/wPAAf8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8DwAH/SAAB/wGZATwC/wGZATwB/wPAAf8DwAH/DAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8DwAH/CAAB/wGZATwC/wGZATwB/wPAAf8DwAH/TAABmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/RAAB/wGZATwC/wGZATwC/wGZATwC/wGZATwB/wPAAf8DwAH/
-        CAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/BAAB/wGZATwC/wGZATwC/wGZ
-        ATwC/wGZATwB/wPAAf8DwAH/SAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/
-        QAAB/wGZATwC/wGZATwB/wQAAf8BmQE8Av8BmQE8Av8BmQE8Af8DwAH/CAABmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAL/AZkBPAL/AZkBPAH/BAAB/wGZATwC/wGZATwC/wGZATwB/wPA
-        Af9IAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/0QAAf8BmQE8Af8MAAH/AZkBPAL/
-        AZkBPAH/A8AB/wPAAf8EAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wQAAf8BmQE8
-        Af8MAAH/AZkBPAL/AZkBPAH/A8AB/wPAAf9IAAGZAnoB/wQAA8AB/wGZAnoB/1wAAf8BmQE8Av8BmQE8
-        Af8DwAH/CAABmQJ6Af8EAAPAAf8BmQJ6Af8cAAH/AZkBPAL/AZkBPAH/A8AB/0wAAZkCegH/AZkCegH/
-        ZAAB/wGZATwB/xAAAZkCegH/AZkCegH/JAAB/wGZATwB//8AcQADwAH/PAADwAH/PAADwAH/JAADwAH/
-        A8AB/xAAA8AB/zgAATwBmQE8Af8DwAH/OAABPAGZATwB/wPAAf84AAE8AZkBPAH/A8AB/yAAAUcBmQL/
-        AUcBmQL/EAABPAGZATwB/wPAAf84AAE8AZkBPAH/A8AB/wPAAf80AAE8AZkBPAH/A8AB/wPAAf80AAE8
-        AZkBPAH/A8AB/wPAAf8UAAPAAf8BRwGZAv8BRwGZAv8DwAH/A8AB/wPAAf8IAAE8AZkBPAH/A8AB/wPA
-        Af8wAAE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wPAAf8DwAH/LAABPAGZATwB/wE8AZkBPAH/ATwBmQE8
-        Af8DwAH/A8AB/ywAATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/A8AB/wPAAf8MAAFHAZkC/wFHAZkC/wFH
-        AZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf8EAAE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wPAAf8DwAH/
-        KAABPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/A8AB/ygAATwBmQE8Af8BPAGZ
-        ATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wPAAf8oAAE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8
-        AZkBPAH/ATwBmQE8Af8DwAH/DAABRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/
-        ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/wPAAf8oAAE8AZkBPAH/ATwBmQE8
-        Af8EAAE8AZkBPAH/ATwBmQE8Af8DwAH/KAABPAGZATwB/wE8AZkBPAH/BAABPAGZATwB/wE8AZkBPAH/
-        A8AB/ygAATwBmQE8Af8BPAGZATwB/wQAATwBmQE8Af8BPAGZATwB/wPAAf8MAAFHAZkC/wFHAZkC/wFH
-        AZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf8BPAGZATwB/wE8AZkBPAH/BAABPAGZATwB/wE8AZkBPAH/
-        A8AB/ygAATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/ywAATwBmQE8Af8BPAGZ
-        ATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB/ywAATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8
-        Af8BPAGZATwB/xAAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/BAABPAGZATwB/wE8
-        AZkBPAH/ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/MAABPAGZATwB/wE8AZkBPAH/ATwBmQE8Af80AAE8
-        AZkBPAH/ATwBmQE8Af8BPAGZATwB/zQAATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/NAABPAGZATwB/wE8
-        AZkBPAH/ATwBmQE8Af8YAAPAAf8DwAH/A8AB/wPAAf8DwAH/A8AB/0wAA8AB/wPAAf8UAAPAAf8DwAH/
-        A8AB/wPAAf8DwAH/A8AB/wwAA8AB/wPAAf9QAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZ
-        AnoB/wPAAf9IAAH/AZkBPAL/AZkBPAH/A8AB/wPAAf8MAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZ
-        AnoB/wGZAnoB/wPAAf8IAAH/AZkBPAL/AZkBPAH/A8AB/wPAAf9MAAGZAnoB/wGZAnoB/wGZAnoB/wGZ
-        AnoB/wGZAnoB/wGZAnoB/wPAAf9EAAH/AZkBPAL/AZkBPAL/AZkBPAL/AZkBPAH/A8AB/wPAAf8IAAGZ
-        AnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wPAAf8EAAH/AZkBPAL/AZkBPAL/AZkBPAL/
-        AZkBPAH/A8AB/wPAAf9IAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wPAAf9AAAH/
-        AZkBPAL/AZkBPAH/BAAB/wGZATwC/wGZATwC/wGZATwB/wPAAf8IAAGZAnoB/wGZAnoB/wGZAnoB/wGZ
-        AnoB/wGZAnoB/wGZAnoB/wPAAv8BmQE8Av8BmQE8Af8EAAH/AZkBPAL/AZkBPAL/AZkBPAH/A8AB/0gA
-        AZkCegH/AZkCegH/AZkCegH/AZkCegH/AZkCegH/AZkCegH/RAAB/wGZATwB/wwAAf8BmQE8Av8BmQE8
-        Af8DwAH/A8AB/wQAAZkCegH/AZkCegH/AZkCegH/AZkCegH/AZkCegH/AZkCegH/BAAB/wGZATwB/wwA
-        Af8BmQE8Av8BmQE8Af8DwAH/A8AB/0gAAZkCegH/BAADwAH/AZkCegH/XAAB/wGZATwC/wGZATwB/wPA
-        Af8IAAGZAnoB/wQAA8AB/wGZAnoB/xwAAf8BmQE8Av8BmQE8Af8DwAH/TAABmQJ6Af8BmQJ6Af9kAAH/
-        AZkBPAH/EAABmQJ6Af8BmQJ6Af8kAAH/AZkBPAH//wBZAAPAAf8DwAH/OAADwAH/A8AB/zgAA8AB/wPA
-        Af9QAAPAAf8gAAFHAZkC/wFHAZkC/zgAAUcBmQL/AUcBmQL/OAABRwGZAv8BRwGZAv9QAAE8AZkBPAH/
-        A8AB/xgAA8AB/wFHAZkC/wFHAZkC/wPAAf8DwAH/A8AB/ygAA8AB/wFHAZkC/wFHAZkC/wPAAf8DwAH/
-        A8AB/ygAA8AB/wFHAZkC/wFHAZkC/wPAAf8DwAH/A8AB/0gAATwBmQE8Af8DwAH/A8AB/xAAAUcBmQL/
-        AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/A8AB/yQAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/
-        AUcBmQL/AUcBmQL/A8AB/yQAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/A8AB/0QA
-        ATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/A8AB/wPAAf8MAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFH
-        AZkC/wFHAZkC/wPAAf8kAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf8kAAFH
-        AZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf9AAAE8AZkBPAH/ATwBmQE8Af8BPAGZ
-        ATwB/wE8AZkBPAH/ATwBmQE8Af8DwAH/DAABRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZ
-        Av8DwAH/JAABRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/JAABRwGZAv8BRwGZ
-        Av8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8DwAH/QAABPAGZATwB/wE8AZkBPAH/BAABPAGZATwB/wE8
-        AZkBPAH/A8AB/wwAAUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/AUcBmQL/KAABRwGZAv8BRwGZ
-        Av8BRwGZAv8BRwGZAv8BRwGZAv8BRwGZAv8oAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFH
-        AZkC/0QAATwBmQE8Af8BPAGZATwB/wE8AZkBPAH/ATwBmQE8Af8BPAGZATwB//AAATwBmQE8Af8BPAGZ
-        ATwB/wE8AZkBPAH/GAADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/A8AB/wPA
-        Af8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8DwAH/SAAB/wGZATwC/wGZATwB/wPAAf8DwAH/DAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8DwAH/CAAB/wGZATwC/wGZATwB/wPAAf8DwAH/TAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8DwAH/RAAB/wGZATwC/wGZATwC/wGZATwC/wGZATwB/wPAAf8DwAH/CAABmQJ6
-        Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/BAAB/wGZATwC/wGZATwC/wGZATwC/wGZ
-        ATwB/wPAAf8DwAH/SAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/QAAB/wGZ
-        ATwC/wGZATwB/wQAAf8BmQE8Av8BmQE8Av8BmQE8Af8DwAH/CAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8DwAL/AZkBPAL/AZkBPAH/BAAB/wGZATwC/wGZATwC/wGZATwB/wPAAf9IAAGZ
-        AnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/0QAAf8BmQE8Af8MAAH/AZkBPAL/AZkBPAH/
-        A8AB/wPAAf8EAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wQAAf8BmQE8Af8MAAH/
-        AZkBPAL/AZkBPAH/A8AB/wPAAf9IAAGZAnoB/wQAA8AB/wGZAnoB/1wAAf8BmQE8Av8BmQE8Af8DwAH/
-        CAABmQJ6Af8EAAPAAf8BmQJ6Af8cAAH/AZkBPAL/AZkBPAH/A8AB/0wAAZkCegH/AZkCegH/ZAAB/wGZ
-        ATwB/xAAAZkCegH/AZkCegH/JAAB/wGZATwB//8A/wAaAAPAAf8DwAH/9AABRwGZAv8BRwGZAv/wAAPA
-        Af8BRwGZAv8BRwGZAv8DwAH/A8AB/wPAAf/kAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFH
-        AZkC/wPAAf/kAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf/kAAFHAZkC/wFH
-        AZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wPAAf/kAAFHAZkC/wFHAZkC/wFHAZkC/wFHAZkC/wFH
-        AZkC/wFHAZkC//8ALQADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/A8AB/wPA
-        Af8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8DwAH/SAAB/wGZATwC/wGZATwB/wPAAf8DwAH/DAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8DwAH/CAAB/wGZATwC/wGZATwB/wPAAf8DwAH/TAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8DwAH/RAAB/wGZATwC/wGZATwC/wGZATwC/wGZATwB/wPAAf8DwAH/CAABmQJ6
-        Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/BAAB/wGZATwC/wGZATwC/wGZATwC/wGZ
-        ATwB/wPAAf8DwAH/SAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6Af8DwAH/QAAB/wGZ
-        ATwC/wGZATwB/wQAAf8BmQE8Av8BmQE8Av8BmQE8Af8DwAH/CAABmQJ6Af8BmQJ6Af8BmQJ6Af8BmQJ6
-        Af8BmQJ6Af8BmQJ6Af8DwAL/AZkBPAL/AZkBPAH/BAAB/wGZATwC/wGZATwC/wGZATwB/wPAAf9IAAGZ
-        AnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/0QAAf8BmQE8Af8MAAH/AZkBPAL/AZkBPAH/
-        A8AB/wPAAf8EAAGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wGZAnoB/wQAAf8BmQE8Af8MAAH/
-        AZkBPAL/AZkBPAH/A8AB/wPAAf9IAAGZAnoB/wQAA8AB/wGZAnoB/1wAAf8BmQE8Av8BmQE8Af8DwAH/
-        CAABmQJ6Af8EAAPAAf8BmQJ6Af8cAAH/AZkBPAL/AZkBPAH/A8AB/0wAAZkCegH/AZkCegH/ZAAB/wGZ
-        ATwB/xAAAZkCegH/AZkCegH/JAAB/wGZATwB/0gAAUIBTQE+BwABPgMAASgDAAFAAwABQAMAAQEBAAEB
+        EAADwAH/YAABSAGZAv8BSAGZAv8QAAE9AZkBPQH/A8AB/yAAAUgBmQL/AUgBmQL/EAABPQGZAT0B/wPA
+        Af8gAAFIAZkC/wFIAZkC/xAAAT0BmQE9Af8DwAH/WAADwAH/AUgBmQL/AUgBmQL/A8AB/wPAAf8DwAH/
+        CAABPQGZAT0B/wPAAf8DwAH/FAADwAH/AUgBmQL/AUgBmQL/A8AB/wPAAf8DwAH/CAABPQGZAT0B/wPA
+        Af8DwAH/FAADwAH/AUgBmQL/AUgBmQL/A8AB/wPAAf8DwAH/CAABPQGZAT0B/wPAAf8DwAH/UAABSAGZ
+        Av8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/BAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9
+        Af8DwAH/A8AB/wwAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/A8AB/wQAAT0BmQE9
+        Af8BPQGZAT0B/wE9AZkBPQH/A8AB/wPAAf8MAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFI
+        AZkC/wPAAf8EAAE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wPAAf8DwAH/TAABSAGZAv8BSAGZAv8BSAGZ
+        Av8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZ
+        AT0B/wPAAf8MAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf8BPQGZAT0B/wE9
+        AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/A8AB/wwAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/
+        AUgBmQL/AUgBmQL/A8AB/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8DwAH/
+        TAABSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/AT0BmQE9Af8BPQGZAT0B/wQA
+        AT0BmQE9Af8BPQGZAT0B/wPAAf8MAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPA
+        Af8BPQGZAT0B/wE9AZkBPQH/BAABPQGZAT0B/wE9AZkBPQH/A8AB/wwAAUgBmQL/AUgBmQL/AUgBmQL/
+        AUgBmQL/AUgBmQL/AUgBmQL/A8AB/wE9AZkBPQH/AT0BmQE9Af8EAAE9AZkBPQH/AT0BmQE9Af8DwAH/
+        TAABSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8EAAE9AZkBPQH/AT0BmQE9Af8BPQGZ
+        AT0B/wE9AZkBPQH/AT0BmQE9Af8QAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wQA
+        AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/xAAAUgBmQL/AUgBmQL/AUgBmQL/
+        AUgBmQL/AUgBmQL/AUgBmQL/BAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/
+        cAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af80AAE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/zQAAT0BmQE9
+        Af8BPQGZAT0B/wE9AZkBPQH/WAADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/
+        A8AB/wPAAf8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8DwAH/SAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/DAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8DwAH/CAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/TAABmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/RAAB/wGZAT0C/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf8DwAH/
+        CAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/BAAB/wGZAT0C/wGZAT0C/wGZ
+        AT0C/wGZAT0B/wPAAf8DwAH/SAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/
+        QAAB/wGZAT0C/wGZAT0B/wQAAf8BmQE9Av8BmQE9Av8BmQE9Af8DwAH/CAABmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAL/AZkBPQL/AZkBPQH/BAAB/wGZAT0C/wGZAT0C/wGZAT0B/wPA
+        Af9IAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/0QAAf8BmQE9Af8MAAH/AZkBPQL/
+        AZkBPQH/A8AB/wPAAf8EAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wQAAf8BmQE9
+        Af8MAAH/AZkBPQL/AZkBPQH/A8AB/wPAAf9IAAGZAnsB/wQAA8AB/wGZAnsB/1wAAf8BmQE9Av8BmQE9
+        Af8DwAH/CAABmQJ7Af8EAAPAAf8BmQJ7Af8cAAH/AZkBPQL/AZkBPQH/A8AB/0wAAZkCewH/AZkCewH/
+        ZAAB/wGZAT0B/xAAAZkCewH/AZkCewH/JAAB/wGZAT0B//8AcQADwAH/PAADwAH/PAADwAH/JAADwAH/
+        A8AB/xAAA8AB/zgAAT0BmQE9Af8DwAH/OAABPQGZAT0B/wPAAf84AAE9AZkBPQH/A8AB/yAAAUgBmQL/
+        AUgBmQL/EAABPQGZAT0B/wPAAf84AAE9AZkBPQH/A8AB/wPAAf80AAE9AZkBPQH/A8AB/wPAAf80AAE9
+        AZkBPQH/A8AB/wPAAf8UAAPAAf8BSAGZAv8BSAGZAv8DwAH/A8AB/wPAAf8IAAE9AZkBPQH/A8AB/wPA
+        Af8wAAE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wPAAf8DwAH/LAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9
+        Af8DwAH/A8AB/ywAAT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/A8AB/wPAAf8MAAFIAZkC/wFIAZkC/wFI
+        AZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf8EAAE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wPAAf8DwAH/
+        KAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/A8AB/ygAAT0BmQE9Af8BPQGZ
+        AT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wPAAf8oAAE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9
+        AZkBPQH/AT0BmQE9Af8DwAH/DAABSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/
+        AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wPAAf8oAAE9AZkBPQH/AT0BmQE9
+        Af8EAAE9AZkBPQH/AT0BmQE9Af8DwAH/KAABPQGZAT0B/wE9AZkBPQH/BAABPQGZAT0B/wE9AZkBPQH/
+        A8AB/ygAAT0BmQE9Af8BPQGZAT0B/wQAAT0BmQE9Af8BPQGZAT0B/wPAAf8MAAFIAZkC/wFIAZkC/wFI
+        AZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf8BPQGZAT0B/wE9AZkBPQH/BAABPQGZAT0B/wE9AZkBPQH/
+        A8AB/ygAAT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/ywAAT0BmQE9Af8BPQGZ
+        AT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B/ywAAT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9
+        Af8BPQGZAT0B/xAAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/BAABPQGZAT0B/wE9
+        AZkBPQH/AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/MAABPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af80AAE9
+        AZkBPQH/AT0BmQE9Af8BPQGZAT0B/zQAAT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/NAABPQGZAT0B/wE9
+        AZkBPQH/AT0BmQE9Af8YAAPAAf8DwAH/A8AB/wPAAf8DwAH/A8AB/0wAA8AB/wPAAf8UAAPAAf8DwAH/
+        A8AB/wPAAf8DwAH/A8AB/wwAA8AB/wPAAf9QAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZ
+        AnsB/wPAAf9IAAH/AZkBPQL/AZkBPQH/A8AB/wPAAf8MAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZ
+        AnsB/wGZAnsB/wPAAf8IAAH/AZkBPQL/AZkBPQH/A8AB/wPAAf9MAAGZAnsB/wGZAnsB/wGZAnsB/wGZ
+        AnsB/wGZAnsB/wGZAnsB/wPAAf9EAAH/AZkBPQL/AZkBPQL/AZkBPQL/AZkBPQH/A8AB/wPAAf8IAAGZ
+        AnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wPAAf8EAAH/AZkBPQL/AZkBPQL/AZkBPQL/
+        AZkBPQH/A8AB/wPAAf9IAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wPAAf9AAAH/
+        AZkBPQL/AZkBPQH/BAAB/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf8IAAGZAnsB/wGZAnsB/wGZAnsB/wGZ
+        AnsB/wGZAnsB/wGZAnsB/wPAAv8BmQE9Av8BmQE9Af8EAAH/AZkBPQL/AZkBPQL/AZkBPQH/A8AB/0gA
+        AZkCewH/AZkCewH/AZkCewH/AZkCewH/AZkCewH/AZkCewH/RAAB/wGZAT0B/wwAAf8BmQE9Av8BmQE9
+        Af8DwAH/A8AB/wQAAZkCewH/AZkCewH/AZkCewH/AZkCewH/AZkCewH/AZkCewH/BAAB/wGZAT0B/wwA
+        Af8BmQE9Av8BmQE9Af8DwAH/A8AB/0gAAZkCewH/BAADwAH/AZkCewH/XAAB/wGZAT0C/wGZAT0B/wPA
+        Af8IAAGZAnsB/wQAA8AB/wGZAnsB/xwAAf8BmQE9Av8BmQE9Af8DwAH/TAABmQJ7Af8BmQJ7Af9kAAH/
+        AZkBPQH/EAABmQJ7Af8BmQJ7Af8kAAH/AZkBPQH//wBZAAPAAf8DwAH/OAADwAH/A8AB/zgAA8AB/wPA
+        Af9QAAPAAf8gAAFIAZkC/wFIAZkC/zgAAUgBmQL/AUgBmQL/OAABSAGZAv8BSAGZAv9QAAE9AZkBPQH/
+        A8AB/xgAA8AB/wFIAZkC/wFIAZkC/wPAAf8DwAH/A8AB/ygAA8AB/wFIAZkC/wFIAZkC/wPAAf8DwAH/
+        A8AB/ygAA8AB/wFIAZkC/wFIAZkC/wPAAf8DwAH/A8AB/0gAAT0BmQE9Af8DwAH/A8AB/xAAAUgBmQL/
+        AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/A8AB/yQAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/
+        AUgBmQL/AUgBmQL/A8AB/yQAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/A8AB/0QA
+        AT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/A8AB/wPAAf8MAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFI
+        AZkC/wFIAZkC/wPAAf8kAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf8kAAFI
+        AZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf9AAAE9AZkBPQH/AT0BmQE9Af8BPQGZ
+        AT0B/wE9AZkBPQH/AT0BmQE9Af8DwAH/DAABSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZ
+        Av8DwAH/JAABSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/JAABSAGZAv8BSAGZ
+        Av8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8DwAH/QAABPQGZAT0B/wE9AZkBPQH/BAABPQGZAT0B/wE9
+        AZkBPQH/A8AB/wwAAUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/AUgBmQL/KAABSAGZAv8BSAGZ
+        Av8BSAGZAv8BSAGZAv8BSAGZAv8BSAGZAv8oAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFI
+        AZkC/0QAAT0BmQE9Af8BPQGZAT0B/wE9AZkBPQH/AT0BmQE9Af8BPQGZAT0B//AAAT0BmQE9Af8BPQGZ
+        AT0B/wE9AZkBPQH/GAADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/A8AB/wPA
+        Af8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8DwAH/SAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/DAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8DwAH/CAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/TAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8DwAH/RAAB/wGZAT0C/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf8DwAH/CAABmQJ7
+        Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/BAAB/wGZAT0C/wGZAT0C/wGZAT0C/wGZ
+        AT0B/wPAAf8DwAH/SAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/QAAB/wGZ
+        AT0C/wGZAT0B/wQAAf8BmQE9Av8BmQE9Av8BmQE9Af8DwAH/CAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8DwAL/AZkBPQL/AZkBPQH/BAAB/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf9IAAGZ
+        AnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/0QAAf8BmQE9Af8MAAH/AZkBPQL/AZkBPQH/
+        A8AB/wPAAf8EAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wQAAf8BmQE9Af8MAAH/
+        AZkBPQL/AZkBPQH/A8AB/wPAAf9IAAGZAnsB/wQAA8AB/wGZAnsB/1wAAf8BmQE9Av8BmQE9Af8DwAH/
+        CAABmQJ7Af8EAAPAAf8BmQJ7Af8cAAH/AZkBPQL/AZkBPQH/A8AB/0wAAZkCewH/AZkCewH/ZAAB/wGZ
+        AT0B/xAAAZkCewH/AZkCewH/JAAB/wGZAT0B//8A/wAaAAPAAf8DwAH/9AABSAGZAv8BSAGZAv/wAAPA
+        Af8BSAGZAv8BSAGZAv8DwAH/A8AB/wPAAf/kAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFI
+        AZkC/wPAAf/kAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf/kAAFIAZkC/wFI
+        AZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wPAAf/kAAFIAZkC/wFIAZkC/wFIAZkC/wFIAZkC/wFI
+        AZkC/wFIAZkC//8ALQADwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf9MAAPAAf8DwAH/FAADwAH/A8AB/wPA
+        Af8DwAH/A8AB/wPAAf8MAAPAAf8DwAH/UAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8DwAH/SAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/DAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8DwAH/CAAB/wGZAT0C/wGZAT0B/wPAAf8DwAH/TAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8DwAH/RAAB/wGZAT0C/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf8DwAH/CAABmQJ7
+        Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/BAAB/wGZAT0C/wGZAT0C/wGZAT0C/wGZ
+        AT0B/wPAAf8DwAH/SAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7Af8DwAH/QAAB/wGZ
+        AT0C/wGZAT0B/wQAAf8BmQE9Av8BmQE9Av8BmQE9Af8DwAH/CAABmQJ7Af8BmQJ7Af8BmQJ7Af8BmQJ7
+        Af8BmQJ7Af8BmQJ7Af8DwAL/AZkBPQL/AZkBPQH/BAAB/wGZAT0C/wGZAT0C/wGZAT0B/wPAAf9IAAGZ
+        AnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/0QAAf8BmQE9Af8MAAH/AZkBPQL/AZkBPQH/
+        A8AB/wPAAf8EAAGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wGZAnsB/wQAAf8BmQE9Af8MAAH/
+        AZkBPQL/AZkBPQH/A8AB/wPAAf9IAAGZAnsB/wQAA8AB/wGZAnsB/1wAAf8BmQE9Av8BmQE9Af8DwAH/
+        CAABmQJ7Af8EAAPAAf8BmQJ7Af8cAAH/AZkBPQL/AZkBPQH/A8AB/0wAAZkCewH/AZkCewH/ZAAB/wGZ
+        AT0B/xAAAZkCewH/AZkCewH/JAAB/wGZAT0B/0gAAUIBTQE+BwABPgMAASgDAAFAAwABQAMAAQEBAAEB
         BgABAhYAA/8BAAb/AgAB8wHfAfMB3wHzAd8CAAHnAZ8B5wGfAecBnwIAAYEBjwGBAY8BgQGPAgABAQEH
         AQEBBwEBAQcDAAEHAQABBwEAAQcDAAFHAQABRwEAAUcCAAECAQ8BAgEPAQIBDwIAAf8BHwH/AR8B/wEf
         AgABgQL/Ac8BgQHPAgABAQL/AYcBAQGHAgABAQL/AQMBAQEDAgABAQH/Af4BQwEAAUMCAAEDAf8B/gHh
@@ -3256,6 +3253,12 @@
   </data>
   <data name="&gt;&gt;StatusLabelUrl.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StatusLabel.Name" xml:space="preserve">
+    <value>StatusLabel</value>
+  </data>
+  <data name="&gt;&gt;StatusLabel.Type" xml:space="preserve">
+    <value>OpenTween.OpenTweenCustomControl.ToolStripLabelHistory, OpenTween, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;ToolStripStatusLabel1.Name" xml:space="preserve">
     <value>ToolStripStatusLabel1</value>
@@ -4720,12 +4723,6 @@
   </data>
   <data name="&gt;&gt;PostStateImageList.Type" xml:space="preserve">
     <value>System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;StatusLabel.Name" xml:space="preserve">
-    <value>StatusLabel</value>
-  </data>
-  <data name="&gt;&gt;StatusLabel.Type" xml:space="preserve">
-    <value>OpenTween.OpenTweenCustomControl.ToolStripLabelHistory, OpenTween, Version=0.1.0.0, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>TweenMain</value>
